@@ -3,6 +3,7 @@
 Code Philadelphia is a community-focused coding initiative that brings together developers, designers, and tech enthusiasts in the Philadelphia area. Our website serves as a hub for event information, resources, and community engagement.
 
 ## About
+using this repo so I could deploy to vercel https://github.com/nolanmak/codephiladelphia.com/tree/main
 
 This repository contains the source code for the [codephiladelphia.com](https://codephiladelphia.com) website. The site is designed to showcase our community events, provide resources for members, and facilitate connections within the Philadelphia tech ecosystem.
 
